@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.xiy.ideareekplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.xiy.ideareekplugin.MyBundle
 
 class MyApplicationService {
 
